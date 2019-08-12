@@ -40,10 +40,13 @@
   },
   "homepage": "https://github.com/artdecoweb/typescript-consumer#readme",
   "devDependencies": {
-    "alamode": "^1.9.3",
-    "documentary": "^1.24.1",
+    "alamode": "^2.4.0",
+    "documentary": "^1.32.0",
     "eslint-config-artdeco": "1.0.1",
     "yarn-s": "1.1.0",
-    "zoroaster": "^3.11.6"
+    "zoroaster": "^4.1.1-alpha"
+  },
+  "dependencies": {
+    "@artdeco/typescript-bug": "artdecoweb/typescript-bug"
   }
 }
